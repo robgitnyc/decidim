@@ -1,0 +1,3 @@
+DATABASE_URL: postgres://decidim_app:kilgrepos@localhost/decidim_prod
+
+SECRET_KEY_BASE: fac585f8fcb8d7e248a3fbc2fa631d50f3d7694194c2ce9d5d2e4306e7c69bb962544b81bdbc6b8a588b62cdf4820f7f70981448bdbb0619f7bab314e1f29246
